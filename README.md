@@ -43,3 +43,4 @@ yarn start:dev
 - Put the config in `/configs` folder, and for dynamic config put as environment variable
 - `CommonModule` only for main package, and put the module that related of project into `/src/modules`.
 - If there a new `service` in CommonModule. Make sure to create the unit test in `/unit`.
+# BookRent-be
